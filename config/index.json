@@ -1,0 +1,7 @@
+{
+  "destinationFolder": "dist",
+  "exportFileName": "off-defaults",
+  "entryFileName": "off-defaults",
+  "exportVarName": "defaults",
+  "mochaGlobals": ["stub", "spy", "expect"]
+}
