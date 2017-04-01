@@ -1,5 +1,7 @@
 # Offside defaults
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/offside-defaults.svg)](https://greenkeeper.io/)
+
 Betting app defaults.
 
 [![Travis build status](http://img.shields.io/travis/kristianmandrup/off-defaults.svg?style=flat)](https://travis-ci.org/kristianmandrup/off-defaults)
